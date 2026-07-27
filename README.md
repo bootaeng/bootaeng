@@ -21,11 +21,25 @@
 
 <br><br>
 
+<h3 align="center">🎓 Education 🎓</h3>
+<div align="center">
+  가톨릭대학교 컴퓨터정보공학부 — 2020.03 ~ 2024.02<br>
+  부산대학교 정보컴퓨터공학부 졸업 (편입) — 2024.03 ~ 2026.02<br>
+  부산대학교 정보융합공학부 석사과정 재학 — 2026.03 ~
+</div>
 
 <br>
 <h3 align="center">👑 Award 👑</h3>
 <div align="center">
   2025 부산대학교 정보컴퓨터공학부 캡스톤디자인 🥇금상 · 인기상 — <a href="https://github.com/bootaeng/Pnu_Cse_2025_Capstone_KGL">KGL</a>
+</div>
+
+<br>
+<h3 align="center">📝 Publication 📝</h3>
+<div align="center">
+  물리 환경 기반 적대적 공격 기법 동향: 공격 대상 도메인 변화를 중심으로<br>
+  <i>A Survey of Physical Adversarial Attack: Focusing on the change of the target domain</i><br>
+  한국정보보호학회 CISC 2026 — 제1저자
 </div>
 
 <br>
