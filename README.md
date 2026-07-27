@@ -30,13 +30,6 @@
 
 <br><br>
 
-<div align="center">
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bootaeng&layout=compact)
-  <br><br>
-  ![Bootaeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=bootaeng&show_icons=true&theme=dark&count_private=true)
-
-</div>
 
 <br>
 <h3 align="center">👑 Award 👑</h3>
