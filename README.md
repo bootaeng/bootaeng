@@ -49,15 +49,13 @@
 <table align="center">
   <tr><th align="left">자격증</th><th align="left">취득일</th></tr>
   <tr><td>빅데이터분석기사</td><td>2026.07.10</td></tr>
-  <tr><td>TOEIC Speaking IH (150)</td><td>2025.12.28</td></tr>
   <tr><td>DAsP</td><td>2025.10.24</td></tr>
   <tr><td>네트워크관리사 2급</td><td>2025.09.30</td></tr>
   <tr><td>정보처리기사</td><td>2025.09.18</td></tr>
   <tr><td>ADsP</td><td>2024.11.29</td></tr>
   <tr><td>TOPCIT</td><td>2024.10.12</td></tr>
   <tr><td>SQLD</td><td>2024.09.20</td></tr>
-  <tr><td>한국사능력검정시험 1급</td><td>2024.08.22</td></tr>
-  <tr><td>TOEIC 925</td><td>2023.11.26</td></tr>
+
 </table>
 
 <br>
