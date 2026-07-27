@@ -54,10 +54,10 @@
 <br>
 <h3 align="center">🚀 Activity 🚀</h3>
 <div align="center">
+  부산대학교 정보보안 동아리 KEEPER 활동 — 2024.09 ~ 2026.02<br>
   카카오테크캠퍼스 웹 서비스 개발(Front-end) 수료 — 2025.04 ~ 2025.11<br>
-  KISA 버그헌팅 실습훈련 초급 · 중급 과정 수료 — 2025.10<br>
+  KISA 버그헌팅 실습훈련 초급 · 중급 과정 수료 — 2025.10<br> 
   DIVE 2026 글로벌 데이터 해커톤 참가 (Team ACCSLAB) — 2026.07<br>
-  부산대학교 정보보안 동아리 KEEPER 활동 — 2024.09 ~ 2026.02<br> 
 </div>
 
 <br><br>
