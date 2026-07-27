@@ -63,7 +63,7 @@
   카카오테크캠퍼스 웹 서비스 개발(Front-end) 수료 — 2025.04 ~ 2025.11<br>
   KISA 버그헌팅 실습훈련 초급 · 중급 과정 수료 — 2025.10<br> 
   2026 동남권 사이버 공방대전 SECTOR 참가 (Team accslab) — 2026.07<br>
-  DIVE 2026 글로벌 데이터 해커톤 참가 (Team ACCSLAB) — 2026.07<br>
+  DIVE 2026 글로벌 데이터 해커톤 참가 및 수료(Team ACCSLAB) — 2026.07<br>
 </div>
 
 <br><br>
