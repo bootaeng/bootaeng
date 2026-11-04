@@ -44,7 +44,7 @@
 <div align="center">
   연안 감시 영상에서 기상 도메인 시프트에 따른 선박 탐지 성능 저하의 방향성 비대칭 현상 분석<br>
   <i>Directional Asymmetry in Weather Domain Shift for Coastal Surveillance Ship Detection</i><br>
-  한국항해항학회 KINPR 2026 — 제2저자
+  한국항해항만학회 KINPR 2026 — 제2저자
 </div>
 
 <br>
